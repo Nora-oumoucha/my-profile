@@ -119,6 +119,7 @@ a:hover {
 }
 
 #archi {
+border-radius: 40px;
 margin-top: 15px;
 width: 450px;
 height: 400px;
